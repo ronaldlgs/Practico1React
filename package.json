@@ -1,0 +1,13 @@
+{
+  "name": "ejeciciopractico1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1": "node index.js",
+    "start2": "node index2.js"
+  },
+  "author": "Ronald Galdames",
+  "license": "ISC"
+}
